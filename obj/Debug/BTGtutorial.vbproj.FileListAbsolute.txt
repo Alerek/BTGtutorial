@@ -1,0 +1,14 @@
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\bin\Debug\BTGtutorial.exe.config
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\bin\Debug\BTGtutorial.exe
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\bin\Debug\BTGtutorial.pdb
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\bin\Debug\BTGtutorial.xml
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.vbprojResolveAssemblyReference.cache
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.Form1.resources
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.Resources.resources
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.vbproj.GenerateResource.Cache
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.vbproj.CoreCompileInputs.cache
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.exe
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.xml
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.pdb
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.Form2.resources
+C:\Users\Ashlynn\source\repos\BTGtutorial\BTGtutorial\obj\Debug\BTGtutorial.Form3.resources
